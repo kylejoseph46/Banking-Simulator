@@ -8,8 +8,8 @@
 //if the user enters the password wrong too many times they will 
 //be prompted to make a new password. 
 //And then the options after logging in are:
-//depositing money, withdrawing oney, checking the balance, 
-//transfering money, and checking interest accumulation.
+//depositing money, withdrawing money, checking the balance, 
+//transferring money, and checking interest accumulation.
 //And all of these operations can be done in both checkings and savings accounts.
 //Except for the interest accumulation, because that only occurs in savings accounts.
 
