@@ -1,4 +1,4 @@
-# OOP CPP Banking App
+# OOP C++ Banking App
 I created a textual banking app in C++ using Object Oriented Programming techniques like data abstraction, encapsulation, and inheritance.
 
 Here is the contents: 
